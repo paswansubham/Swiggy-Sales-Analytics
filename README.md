@@ -77,8 +77,8 @@ Swiggy needs a centralized view to monitor sales performance, customer satisfact
 ---
 
 ###  Author
-**Ritlesh Kumar**  
-GitHub: *(https://github.com/paswansubham/Swiggy-Sales-Analysis)*  
+**Subham Paswan**  
+GitHub: *(https://github.com/paswansubham/Swiggy-Sales-Analytics)*  
 LinkedIn: *(https://www.linkedin.com/in/subham-paswan/)*
 )
 
