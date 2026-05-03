@@ -65,7 +65,7 @@ Swiggy needs a centralized view to monitor sales performance, customer satisfact
 
 ## 5. Screenshots / Demo
 
-![Dashboard Overview](https://github.com/riteshkumar-da/Swiggy-Sales-Analysis-Excel-Dashboard/blob/main/Swiggy%20Dashboard.png)
+![Dashboard Overview](https://github.com/paswansubham/Swiggy-Sales-Analysis-Excel-Dashboard/blob/main/Swiggy%20Dashboard.png)
 
 ---
 
@@ -78,8 +78,8 @@ Swiggy needs a centralized view to monitor sales performance, customer satisfact
 
 ###  Author
 **Ritlesh Kumar**  
-GitHub: *(https://github.com/riteshkumar-da/Swiggy-Sales-Analysis-Excel-Dashboard)*  
-LinkedIn: *(https://www.linkedin.com/in/ritlesh-kumar-740405280)*
+GitHub: *(https://github.com/paswansubham/Swiggy-Sales-Analysis-Excel-Dashboard)*  
+LinkedIn: *(https://www.linkedin.com/in/subham-paswan/)*
 )
 
 ---
